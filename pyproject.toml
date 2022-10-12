@@ -1,0 +1,22 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tictactoe_gym"
+version = "1.0.0"
+description = "An OpenAI gym environment for playing Tic Tac Toe"
+readme = "README.md"
+authors = [{ name = "Alfie Beard" }]
+license = { file = "LICENSE.md" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["tictactoe", "gym"]
+dependencies = ["gym"]
+requires-python = ">=3.10"
+
+[project.urls]
+Homepage = "https://github.com/alfiebeard/tictactoe-gym"
