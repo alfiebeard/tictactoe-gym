@@ -1,4 +1,4 @@
-# Gym_tictactoe
+# gym_tictactoe
 
 This is an OpenAI gym environment for playing Tic Tac Toe (or Noughts and Crosses).
 
