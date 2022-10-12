@@ -1,4 +1,4 @@
-# gym_tictactoe
+# tictactoe-gym
 
 This is an OpenAI gym environment for playing Tic Tac Toe (or Noughts and Crosses).
 
@@ -98,5 +98,5 @@ No additional arguments are currently supported.
 
 ## Installation
 ```
-pip install -e gym_tictactoe
+pip install -e tictactoe_gym
 ```
