@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tictactoe_gym"
-version = "1.0.0"
+version = "1.0.1"
 description = "An OpenAI gym environment for playing Tic Tac Toe"
 readme = "README.md"
 authors = [{ name = "Alfie Beard" }]
