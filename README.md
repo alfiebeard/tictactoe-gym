@@ -2,6 +2,11 @@
 
 This is an OpenAI gym environment for playing Tic Tac Toe (or Noughts and Crosses).
 
+## Installation
+```
+pip install tictactoe_gym
+```
+
 ## Overview
 Each player takes it in turn to mark a position in a square grid (e.g., 3x3), until they form a horizontal, vertical or diagonal line across the grid (e.g., 3 in a row), in which case they win. If no further moves can be made and there is no winner then the game is a draw.
 
@@ -95,8 +100,3 @@ No additional arguments are currently supported.
 **clone:** Clone the game.
 
 **render:** Renders the current observation in the terminal as a string.
-
-## Installation
-```
-pip install -e tictactoe_gym
-```
